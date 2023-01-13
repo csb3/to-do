@@ -3,3 +3,15 @@ body {
   position: relative;
   margin: 6em 0 0;
 }
+
+#new {
+  width: 200px;
+}
+
+.main {
+  padding: 30px;
+}
+
+label {
+  color: rgb(127, 60, 12);
+}
